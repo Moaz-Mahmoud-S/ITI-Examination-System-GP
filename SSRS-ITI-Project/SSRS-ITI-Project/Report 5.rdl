@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report MustUnderstand="df" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:df="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition/defaultfontfamily" xmlns:am="http://schemas.microsoft.com/sqlserver/reporting/authoringmetadata">
+  <am:AuthoringMetadata>
+    <am:CreatedBy>
+      <am:Name>SSDTRS</am:Name>
+      <am:Version>17.11.35219.272</am:Version>
+    </am:CreatedBy>
+    <am:UpdatedBy>
+      <am:Name>SSDTRS</am:Name>
+      <am:Version>17.11.35219.272</am:Version>
+    </am:UpdatedBy>
+    <am:LastModifiedTimestamp>2024-08-29T22:41:08.8106495Z</am:LastModifiedTimestamp>
+  </am:AuthoringMetadata>
+  <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource1">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString>Data Source=DESKTOP-FQ1TMTF\SQLEXPRESS;Initial Catalog=ITI_Graduation_Project</ConnectString>
+        <IntegratedSecurity>true</IntegratedSecurity>
+      </ConnectionProperties>
+      <rd:SecurityType>Integrated</rd:SecurityType>
+      <rd:DataSourceID>5e3eaa84-3d78-49ef-9789-97a394cacf63</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="DataSet1">
+      <Query>
+        <DataSourceName>DataSource1</DataSourceName>
+        <QueryParameters>
+          <QueryParameter Name="@Exam_ID">
+            <Value>=Parameters!Exam_ID.Value</Value>
+          </QueryParameter>
+        </QueryParameters>
+        <CommandType>StoredProcedure</CommandType>
+        <CommandText>GetExamINFO</CommandText>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <Fields>
+        <Field Name="Question">
+          <DataField>Question</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Choice">
+          <DataField>Choice</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+    </DataSet>
+  </DataSets>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <ReportItems>
+          <Tablix Name="Tablix1">
+            <TablixBody>
+              <TablixColumns>
+                <TablixColumn>
+                  <Width>15.79032cm</Width>
+                </TablixColumn>
+              </TablixColumns>
+              <TablixRows>
+                <TablixRow>
+                  <Height>3.85967cm</Height>
+                  <TablixCells>
+                    <TablixCell>
+                      <CellContents>
+                        <Rectangle Name="Rectangle1">
+                          <ReportItems>
+                            <Tablix Name="Tablix2">
+                              <TablixBody>
+                                <TablixColumns>
+                                  <TablixColumn>
+                                    <Width>14.22633cm</Width>
+                                  </TablixColumn>
+                                </TablixColumns>
+                                <TablixRows>
+                                  <TablixRow>
+                                    <Height>0.7905cm</Height>
+                                    <TablixCells>
+                                      <TablixCell>
+                                        <CellContents>
+                                          <Textbox Name="Choice">
+                                            <CanGrow>true</CanGrow>
+                                            <KeepTogether>true</KeepTogether>
+                                            <Paragraphs>
+                                              <Paragraph>
+                                                <TextRuns>
+                                                  <TextRun>
+                                                    <Value>=Fields!Choice.Value</Value>
+                                                    <Style />
+                                                  </TextRun>
+                                                </TextRuns>
+                                                <Style>
+                                                  <TextAlign>Left</TextAlign>
+                                                </Style>
+                                              </Paragraph>
+                                            </Paragraphs>
+                                            <rd:DefaultName>Choice</rd:DefaultName>
+                                            <Style>
+                                              <Border>
+                                                <Color>LightGrey</Color>
+                                                <Style>Solid</Style>
+                                              </Border>
+                                              <PaddingLeft>2pt</PaddingLeft>
+                                              <PaddingRight>2pt</PaddingRight>
+                                              <PaddingTop>2pt</PaddingTop>
+                                              <PaddingBottom>2pt</PaddingBottom>
+                                            </Style>
+                                          </Textbox>
+                                        </CellContents>
+                                      </TablixCell>
+                                    </TablixCells>
+                                  </TablixRow>
+                                </TablixRows>
+                              </TablixBody>
+                              <TablixColumnHierarchy>
+                                <TablixMembers>
+                                  <TablixMember />
+                                </TablixMembers>
+                              </TablixColumnHierarchy>
+                              <TablixRowHierarchy>
+                                <TablixMembers>
+                                  <TablixMember>
+                                    <Group Name="Details1" />
+                                  </TablixMember>
+                                </TablixMembers>
+                              </TablixRowHierarchy>
+                              <DataSetName>DataSet1</DataSetName>
+                              <Top>1.79917cm</Top>
+                              <Left>0.97367cm</Left>
+                              <Height>0.7905cm</Height>
+                              <Width>14.22633cm</Width>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <FontSize>12pt</FontSize>
+                              </Style>
+                            </Tablix>
+                            <Textbox Name="Question">
+                              <CanGrow>true</CanGrow>
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value>=Fields!Question.Value</Value>
+                                      <Style>
+                                        <FontFamily>Arial</FontFamily>
+                                        <FontSize>15pt</FontSize>
+                                        <FontWeight>Bold</FontWeight>
+                                        <Color>White</Color>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style>
+                                    <TextAlign>Left</TextAlign>
+                                  </Style>
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Question</rd:DefaultName>
+                              <Top>0.59767cm</Top>
+                              <Left>0.97367cm</Left>
+                              <Height>0.854cm</Height>
+                              <Width>14.22633cm</Width>
+                              <ZIndex>1</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <BackgroundColor>Black</BackgroundColor>
+                                <PaddingLeft>2pt</PaddingLeft>
+                                <PaddingRight>2pt</PaddingRight>
+                                <PaddingTop>2pt</PaddingTop>
+                                <PaddingBottom>2pt</PaddingBottom>
+                              </Style>
+                            </Textbox>
+                          </ReportItems>
+                          <KeepTogether>true</KeepTogether>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                          </Style>
+                        </Rectangle>
+                      </CellContents>
+                    </TablixCell>
+                  </TablixCells>
+                </TablixRow>
+              </TablixRows>
+            </TablixBody>
+            <TablixColumnHierarchy>
+              <TablixMembers>
+                <TablixMember />
+              </TablixMembers>
+            </TablixColumnHierarchy>
+            <TablixRowHierarchy>
+              <TablixMembers>
+                <TablixMember>
+                  <Group Name="Details">
+                    <GroupExpressions>
+                      <GroupExpression>=Fields!Question.Value</GroupExpression>
+                    </GroupExpressions>
+                  </Group>
+                </TablixMember>
+              </TablixMembers>
+            </TablixRowHierarchy>
+            <DataSetName>DataSet1</DataSetName>
+            <Top>0.49453cm</Top>
+            <Left>2.413cm</Left>
+            <Height>3.85967cm</Height>
+            <Width>15.79032cm</Width>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Tablix>
+        </ReportItems>
+        <Height>2in</Height>
+        <Style />
+      </Body>
+      <Width>10.04166in</Width>
+      <Page>
+        <PageHeader>
+          <Height>2.96333cm</Height>
+          <PrintOnFirstPage>true</PrintOnFirstPage>
+          <PrintOnLastPage>true</PrintOnLastPage>
+          <ReportItems>
+            <Image Name="Image1">
+              <Source>Embedded</Source>
+              <Value>ID1631351788797</Value>
+              <Sizing>FitProportional</Sizing>
+              <Top>0.16917in</Top>
+              <Left>0.24167in</Left>
+              <Height>0.5in</Height>
+              <Width>0.5in</Width>
+              <Style>
+                <Border>
+                  <Style>None</Style>
+                </Border>
+              </Style>
+            </Image>
+            <Textbox Name="Textbox4">
+              <CanGrow>true</CanGrow>
+              <KeepTogether>true</KeepTogether>
+              <Paragraphs>
+                <Paragraph>
+                  <TextRuns>
+                    <TextRun>
+                      <Value>Exam Questions &amp; Choices</Value>
+                      <Style>
+                        <FontFamily>Arial Rounded MT Bold</FontFamily>
+                        <FontSize>32pt</FontSize>
+                      </Style>
+                    </TextRun>
+                  </TextRuns>
+                  <Style />
+                </Paragraph>
+              </Paragraphs>
+              <rd:DefaultName>Textbox4</rd:DefaultName>
+              <Top>0.14417in</Top>
+              <Left>0.95in</Left>
+              <Height>0.525in</Height>
+              <Width>5.83333in</Width>
+              <ZIndex>1</ZIndex>
+              <Style>
+                <Border>
+                  <Style>None</Style>
+                </Border>
+                <PaddingLeft>2pt</PaddingLeft>
+                <PaddingRight>2pt</PaddingRight>
+                <PaddingTop>2pt</PaddingTop>
+                <PaddingBottom>2pt</PaddingBottom>
+              </Style>
+            </Textbox>
+            <Textbox Name="Textbox9">
+              <CanGrow>true</CanGrow>
+              <KeepTogether>true</KeepTogether>
+              <Paragraphs>
+                <Paragraph>
+                  <TextRuns>
+                    <TextRun>
+                      <Value>EXAM ID = </Value>
+                      <Style>
+                        <FontSize>14pt</FontSize>
+                      </Style>
+                    </TextRun>
+                    <TextRun>
+                      <Value>=Parameters!Exam_ID.Value</Value>
+                      <Style>
+                        <FontSize>14pt</FontSize>
+                      </Style>
+                    </TextRun>
+                  </TextRuns>
+                  <Style />
+                </Paragraph>
+              </Paragraphs>
+              <rd:DefaultName>Textbox9</rd:DefaultName>
+              <Top>0.84722in</Top>
+              <Left>0.95in</Left>
+              <Height>0.25in</Height>
+              <Width>2.21667in</Width>
+              <ZIndex>2</ZIndex>
+              <Style>
+                <Border>
+                  <Style>None</Style>
+                </Border>
+                <PaddingLeft>2pt</PaddingLeft>
+                <PaddingRight>2pt</PaddingRight>
+                <PaddingTop>2pt</PaddingTop>
+                <PaddingBottom>2pt</PaddingBottom>
+              </Style>
+            </Textbox>
+          </ReportItems>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+          </Style>
+        </PageHeader>
+        <PageHeight>29.7cm</PageHeight>
+        <PageWidth>21cm</PageWidth>
+        <LeftMargin>2cm</LeftMargin>
+        <RightMargin>2cm</RightMargin>
+        <TopMargin>2cm</TopMargin>
+        <BottomMargin>2cm</BottomMargin>
+        <ColumnSpacing>0.13cm</ColumnSpacing>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <ReportParameters>
+    <ReportParameter Name="Exam_ID">
+      <DataType>Integer</DataType>
+      <Prompt>Exam ID</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <ReportParametersLayout>
+    <GridLayoutDefinition>
+      <NumberOfColumns>4</NumberOfColumns>
+      <NumberOfRows>2</NumberOfRows>
+      <CellDefinitions>
+        <CellDefinition>
+          <ColumnIndex>0</ColumnIndex>
+          <RowIndex>0</RowIndex>
+          <ParameterName>Exam_ID</ParameterName>
+        </CellDefinition>
+      </CellDefinitions>
+    </GridLayoutDefinition>
+  </ReportParametersLayout>
+  <EmbeddedImages>
+    <EmbeddedImage Name="ID1631351788797">
+      <MIMEType>image/jpeg</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+  <rd:ReportID>ccaf7370-1033-420c-9d66-ef038ce432fd</rd:ReportID>
+</Report>

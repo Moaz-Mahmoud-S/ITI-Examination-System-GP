@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4156BA-F4B7-4F30-A3CC-C570644CB612}|SSRS-ITI-Project\\SSRS-ITI-Project.rptproj|D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 5.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{2D4156BA-F4B7-4F30-A3CC-C570644CB612}|SSRS-ITI-Project\\SSRS-ITI-Project.rptproj|solutionrelative:SSRS-ITI-Project\\Report 5.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4156BA-F4B7-4F30-A3CC-C570644CB612}|SSRS-ITI-Project\\SSRS-ITI-Project.rptproj|D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{2D4156BA-F4B7-4F30-A3CC-C570644CB612}|SSRS-ITI-Project\\SSRS-ITI-Project.rptproj|solutionrelative:SSRS-ITI-Project\\Report 3.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4156BA-F4B7-4F30-A3CC-C570644CB612}|SSRS-ITI-Project\\SSRS-ITI-Project.rptproj|D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{2D4156BA-F4B7-4F30-A3CC-C570644CB612}|SSRS-ITI-Project\\SSRS-ITI-Project.rptproj|solutionrelative:SSRS-ITI-Project\\Report 2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4156BA-F4B7-4F30-A3CC-C570644CB612}|SSRS-ITI-Project\\SSRS-ITI-Project.rptproj|D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{2D4156BA-F4B7-4F30-A3CC-C570644CB612}|SSRS-ITI-Project\\SSRS-ITI-Project.rptproj|solutionrelative:SSRS-ITI-Project\\Report 1.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4156BA-F4B7-4F30-A3CC-C570644CB612}|SSRS-ITI-Project\\SSRS-ITI-Project.rptproj|D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 6.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{2D4156BA-F4B7-4F30-A3CC-C570644CB612}|SSRS-ITI-Project\\SSRS-ITI-Project.rptproj|solutionrelative:SSRS-ITI-Project\\Report 6.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4156BA-F4B7-4F30-A3CC-C570644CB612}|SSRS-ITI-Project\\SSRS-ITI-Project.rptproj|D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 4.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{2D4156BA-F4B7-4F30-A3CC-C570644CB612}|SSRS-ITI-Project\\SSRS-ITI-Project.rptproj|solutionrelative:SSRS-ITI-Project\\Report 4.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report 1.rdl [Design]",
+              "DocumentMoniker": "D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 1.rdl",
+              "RelativeDocumentMoniker": "SSRS-ITI-Project\\Report 1.rdl",
+              "ToolTip": "D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 1.rdl [Design]",
+              "RelativeToolTip": "SSRS-ITI-Project\\Report 1.rdl [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMkSURBVDhPZVXPS1RRFD73/XAcRyd9o5boopDJKCJ3blq0kKKFMUGtWxnTpkgKAndFi0CI9kFR64L\u002BBaGtCC1s0yJCUqRIFMeZ9\u002B49fefc98bJLpw5950f3/nOO/e\u002BMXRsfVldonP10YGstbXc2fl4n9O9CszMLF5jSDTEP1Mb8hayPN/c\u002B722kXGgZqzx0Qp9en9HwEasNQ\u002BZgrvEUaWbXEh3J1buQ6VpdjygHmOMAo4B7NXzBbo\u002BPzMBsAfwLCGlJrQ8mDAzRiGOSV6kuxTw9cvbdOvGpQl25h7AmjCNiN0HA7YnmR0ZEfU5/wrUL6FYCnj1ykzVdnYXXXa4yLY15myLuPMLyR0BQCKkSCwy86WP8pPbdSi7q9FZF9Q\u002BkAkuwOFzXGrIZR4Qy/P0zBxsto1Ai72l9cNdWsk69BlR35UhB4OGbTvkFMyyA\u002BIUYlOAIRs4vmcJlGgihND\u002BFtHeNvQOzQLsDUKazMa3rC0VS5OK4\u002BFVDpbbcoZgp3Wwh8TYJ7JXQIdEAVWnJOUa3Hwx2RfJuV9A0S40Q/v2u4ApWXnoMtCkPFG30rVD0bhGcbVO5VN1Sup1GpqaIhOWjooVgAbBmtR14MEJSFdMivlwnFBQGqO4klA5GabKeI047qcszRkjTwEDqZ6/o4KdgstemWs1nD/ppI3hH0KgZXBaEbG9DLX/wghgBfLaMIVoa4iCeBi6H47Qx9kM4wagdcrOA\u002BZTDgJpsehZ\u002BPlftUWjVJq8RtXTCzRwco6iE\u002Bcp6B/H8UrBMAMYkHQgfjieofzI8lBaTSARyxxUKSxPUFROKOwbBFNIWIZTzmnHDw6iLJGrgGKHoxgKbogP0kA1yI2R5ELADqfZZcLQIga5coQgvmX5kEiTAiiCwUMLsA4EFxuCUeai7NCu3Kb8DMoHQwkooHXBPtQaAL4C7UiINgyZTQCAv3woPDuWO26x7xlKMRgFDF24HXH0xGWmgRfcQHwDAY1SMn1zcPLiCkq2uGCIayBt\u002B6HI/t9j899fQO963JylZ4/mLqOpdwA9o5lYnT8/6GBznWzm6Oe3jNJ9PggNPSWiF38BwFlzOnaUjdwAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-07T18:19:11.399Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report 2.rdl [Design]",
+              "DocumentMoniker": "D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 2.rdl",
+              "RelativeDocumentMoniker": "SSRS-ITI-Project\\Report 2.rdl",
+              "ToolTip": "D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 2.rdl [Design]",
+              "RelativeToolTip": "SSRS-ITI-Project\\Report 2.rdl [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMkSURBVDhPZVXPS1RRFD73/XAcRyd9o5boopDJKCJ3blq0kKKFMUGtWxnTpkgKAndFi0CI9kFR64L\u002BBaGtCC1s0yJCUqRIFMeZ9\u002B49fefc98bJLpw5950f3/nOO/e\u002BMXRsfVldonP10YGstbXc2fl4n9O9CszMLF5jSDTEP1Mb8hayPN/c\u002B722kXGgZqzx0Qp9en9HwEasNQ\u002BZgrvEUaWbXEh3J1buQ6VpdjygHmOMAo4B7NXzBbo\u002BPzMBsAfwLCGlJrQ8mDAzRiGOSV6kuxTw9cvbdOvGpQl25h7AmjCNiN0HA7YnmR0ZEfU5/wrUL6FYCnj1ykzVdnYXXXa4yLY15myLuPMLyR0BQCKkSCwy86WP8pPbdSi7q9FZF9Q\u002BkAkuwOFzXGrIZR4Qy/P0zBxsto1Ai72l9cNdWsk69BlR35UhB4OGbTvkFMyyA\u002BIUYlOAIRs4vmcJlGgihND\u002BFtHeNvQOzQLsDUKazMa3rC0VS5OK4\u002BFVDpbbcoZgp3Wwh8TYJ7JXQIdEAVWnJOUa3Hwx2RfJuV9A0S40Q/v2u4ApWXnoMtCkPFG30rVD0bhGcbVO5VN1Sup1GpqaIhOWjooVgAbBmtR14MEJSFdMivlwnFBQGqO4klA5GabKeI047qcszRkjTwEDqZ6/o4KdgstemWs1nD/ppI3hH0KgZXBaEbG9DLX/wghgBfLaMIVoa4iCeBi6H47Qx9kM4wagdcrOA\u002BZTDgJpsehZ\u002BPlftUWjVJq8RtXTCzRwco6iE\u002Bcp6B/H8UrBMAMYkHQgfjieofzI8lBaTSARyxxUKSxPUFROKOwbBFNIWIZTzmnHDw6iLJGrgGKHoxgKbogP0kA1yI2R5ELADqfZZcLQIga5coQgvmX5kEiTAiiCwUMLsA4EFxuCUeai7NCu3Kb8DMoHQwkooHXBPtQaAL4C7UiINgyZTQCAv3woPDuWO26x7xlKMRgFDF24HXH0xGWmgRfcQHwDAY1SMn1zcPLiCkq2uGCIayBt\u002B6HI/t9j899fQO963JylZ4/mLqOpdwA9o5lYnT8/6GBznWzm6Oe3jNJ9PggNPSWiF38BwFlzOnaUjdwAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-07T18:19:12.462Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report 3.rdl [Design]",
+              "DocumentMoniker": "D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 3.rdl",
+              "RelativeDocumentMoniker": "SSRS-ITI-Project\\Report 3.rdl",
+              "ToolTip": "D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 3.rdl [Design]",
+              "RelativeToolTip": "SSRS-ITI-Project\\Report 3.rdl [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMkSURBVDhPZVXPS1RRFD73/XAcRyd9o5boopDJKCJ3blq0kKKFMUGtWxnTpkgKAndFi0CI9kFR64L\u002BBaGtCC1s0yJCUqRIFMeZ9\u002B49fefc98bJLpw5950f3/nOO/e\u002BMXRsfVldonP10YGstbXc2fl4n9O9CszMLF5jSDTEP1Mb8hayPN/c\u002B722kXGgZqzx0Qp9en9HwEasNQ\u002BZgrvEUaWbXEh3J1buQ6VpdjygHmOMAo4B7NXzBbo\u002BPzMBsAfwLCGlJrQ8mDAzRiGOSV6kuxTw9cvbdOvGpQl25h7AmjCNiN0HA7YnmR0ZEfU5/wrUL6FYCnj1ykzVdnYXXXa4yLY15myLuPMLyR0BQCKkSCwy86WP8pPbdSi7q9FZF9Q\u002BkAkuwOFzXGrIZR4Qy/P0zBxsto1Ai72l9cNdWsk69BlR35UhB4OGbTvkFMyyA\u002BIUYlOAIRs4vmcJlGgihND\u002BFtHeNvQOzQLsDUKazMa3rC0VS5OK4\u002BFVDpbbcoZgp3Wwh8TYJ7JXQIdEAVWnJOUa3Hwx2RfJuV9A0S40Q/v2u4ApWXnoMtCkPFG30rVD0bhGcbVO5VN1Sup1GpqaIhOWjooVgAbBmtR14MEJSFdMivlwnFBQGqO4klA5GabKeI047qcszRkjTwEDqZ6/o4KdgstemWs1nD/ppI3hH0KgZXBaEbG9DLX/wghgBfLaMIVoa4iCeBi6H47Qx9kM4wagdcrOA\u002BZTDgJpsehZ\u002BPlftUWjVJq8RtXTCzRwco6iE\u002Bcp6B/H8UrBMAMYkHQgfjieofzI8lBaTSARyxxUKSxPUFROKOwbBFNIWIZTzmnHDw6iLJGrgGKHoxgKbogP0kA1yI2R5ELADqfZZcLQIga5coQgvmX5kEiTAiiCwUMLsA4EFxuCUeai7NCu3Kb8DMoHQwkooHXBPtQaAL4C7UiINgyZTQCAv3woPDuWO26x7xlKMRgFDF24HXH0xGWmgRfcQHwDAY1SMn1zcPLiCkq2uGCIayBt\u002B6HI/t9j899fQO963JylZ4/mLqOpdwA9o5lYnT8/6GBznWzm6Oe3jNJ9PggNPSWiF38BwFlzOnaUjdwAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-07T18:19:13.616Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report 4.rdl [Design]",
+              "DocumentMoniker": "D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 4.rdl",
+              "RelativeDocumentMoniker": "SSRS-ITI-Project\\Report 4.rdl",
+              "ToolTip": "D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 4.rdl [Design]",
+              "RelativeToolTip": "SSRS-ITI-Project\\Report 4.rdl [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMkSURBVDhPZVXPS1RRFD73/XAcRyd9o5boopDJKCJ3blq0kKKFMUGtWxnTpkgKAndFi0CI9kFR64L\u002BBaGtCC1s0yJCUqRIFMeZ9\u002B49fefc98bJLpw5950f3/nOO/e\u002BMXRsfVldonP10YGstbXc2fl4n9O9CszMLF5jSDTEP1Mb8hayPN/c\u002B722kXGgZqzx0Qp9en9HwEasNQ\u002BZgrvEUaWbXEh3J1buQ6VpdjygHmOMAo4B7NXzBbo\u002BPzMBsAfwLCGlJrQ8mDAzRiGOSV6kuxTw9cvbdOvGpQl25h7AmjCNiN0HA7YnmR0ZEfU5/wrUL6FYCnj1ykzVdnYXXXa4yLY15myLuPMLyR0BQCKkSCwy86WP8pPbdSi7q9FZF9Q\u002BkAkuwOFzXGrIZR4Qy/P0zBxsto1Ai72l9cNdWsk69BlR35UhB4OGbTvkFMyyA\u002BIUYlOAIRs4vmcJlGgihND\u002BFtHeNvQOzQLsDUKazMa3rC0VS5OK4\u002BFVDpbbcoZgp3Wwh8TYJ7JXQIdEAVWnJOUa3Hwx2RfJuV9A0S40Q/v2u4ApWXnoMtCkPFG30rVD0bhGcbVO5VN1Sup1GpqaIhOWjooVgAbBmtR14MEJSFdMivlwnFBQGqO4klA5GabKeI047qcszRkjTwEDqZ6/o4KdgstemWs1nD/ppI3hH0KgZXBaEbG9DLX/wghgBfLaMIVoa4iCeBi6H47Qx9kM4wagdcrOA\u002BZTDgJpsehZ\u002BPlftUWjVJq8RtXTCzRwco6iE\u002Bcp6B/H8UrBMAMYkHQgfjieofzI8lBaTSARyxxUKSxPUFROKOwbBFNIWIZTzmnHDw6iLJGrgGKHoxgKbogP0kA1yI2R5ELADqfZZcLQIga5coQgvmX5kEiTAiiCwUMLsA4EFxuCUeai7NCu3Kb8DMoHQwkooHXBPtQaAL4C7UiINgyZTQCAv3woPDuWO26x7xlKMRgFDF24HXH0xGWmgRfcQHwDAY1SMn1zcPLiCkq2uGCIayBt\u002B6HI/t9j899fQO963JylZ4/mLqOpdwA9o5lYnT8/6GBznWzm6Oe3jNJ9PggNPSWiF38BwFlzOnaUjdwAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-07T18:19:14.25Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report 5.rdl [Design]",
+              "DocumentMoniker": "D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 5.rdl",
+              "RelativeDocumentMoniker": "SSRS-ITI-Project\\Report 5.rdl",
+              "ToolTip": "D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 5.rdl [Design]",
+              "RelativeToolTip": "SSRS-ITI-Project\\Report 5.rdl [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMkSURBVDhPZVXPS1RRFD73/XAcRyd9o5boopDJKCJ3blq0kKKFMUGtWxnTpkgKAndFi0CI9kFR64L\u002BBaGtCC1s0yJCUqRIFMeZ9\u002B49fefc98bJLpw5950f3/nOO/e\u002BMXRsfVldonP10YGstbXc2fl4n9O9CszMLF5jSDTEP1Mb8hayPN/c\u002B722kXGgZqzx0Qp9en9HwEasNQ\u002BZgrvEUaWbXEh3J1buQ6VpdjygHmOMAo4B7NXzBbo\u002BPzMBsAfwLCGlJrQ8mDAzRiGOSV6kuxTw9cvbdOvGpQl25h7AmjCNiN0HA7YnmR0ZEfU5/wrUL6FYCnj1ykzVdnYXXXa4yLY15myLuPMLyR0BQCKkSCwy86WP8pPbdSi7q9FZF9Q\u002BkAkuwOFzXGrIZR4Qy/P0zBxsto1Ai72l9cNdWsk69BlR35UhB4OGbTvkFMyyA\u002BIUYlOAIRs4vmcJlGgihND\u002BFtHeNvQOzQLsDUKazMa3rC0VS5OK4\u002BFVDpbbcoZgp3Wwh8TYJ7JXQIdEAVWnJOUa3Hwx2RfJuV9A0S40Q/v2u4ApWXnoMtCkPFG30rVD0bhGcbVO5VN1Sup1GpqaIhOWjooVgAbBmtR14MEJSFdMivlwnFBQGqO4klA5GabKeI047qcszRkjTwEDqZ6/o4KdgstemWs1nD/ppI3hH0KgZXBaEbG9DLX/wghgBfLaMIVoa4iCeBi6H47Qx9kM4wagdcrOA\u002BZTDgJpsehZ\u002BPlftUWjVJq8RtXTCzRwco6iE\u002Bcp6B/H8UrBMAMYkHQgfjieofzI8lBaTSARyxxUKSxPUFROKOwbBFNIWIZTzmnHDw6iLJGrgGKHoxgKbogP0kA1yI2R5ELADqfZZcLQIga5coQgvmX5kEiTAiiCwUMLsA4EFxuCUeai7NCu3Kb8DMoHQwkooHXBPtQaAL4C7UiINgyZTQCAv3woPDuWO26x7xlKMRgFDF24HXH0xGWmgRfcQHwDAY1SMn1zcPLiCkq2uGCIayBt\u002B6HI/t9j899fQO963JylZ4/mLqOpdwA9o5lYnT8/6GBznWzm6Oe3jNJ9PggNPSWiF38BwFlzOnaUjdwAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-29T22:41:08.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report 6.rdl [Design]",
+              "DocumentMoniker": "D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 6.rdl",
+              "RelativeDocumentMoniker": "SSRS-ITI-Project\\Report 6.rdl",
+              "ToolTip": "D:\\iti-power bi\\ITI- Graduation Project\\SSRS-ITI-Project\\SSRS-ITI-Project\\Report 6.rdl [Design]",
+              "RelativeToolTip": "SSRS-ITI-Project\\Report 6.rdl [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMkSURBVDhPZVXPS1RRFD73/XAcRyd9o5boopDJKCJ3blq0kKKFMUGtWxnTpkgKAndFi0CI9kFR64L\u002BBaGtCC1s0yJCUqRIFMeZ9\u002B49fefc98bJLpw5950f3/nOO/e\u002BMXRsfVldonP10YGstbXc2fl4n9O9CszMLF5jSDTEP1Mb8hayPN/c\u002B722kXGgZqzx0Qp9en9HwEasNQ\u002BZgrvEUaWbXEh3J1buQ6VpdjygHmOMAo4B7NXzBbo\u002BPzMBsAfwLCGlJrQ8mDAzRiGOSV6kuxTw9cvbdOvGpQl25h7AmjCNiN0HA7YnmR0ZEfU5/wrUL6FYCnj1ykzVdnYXXXa4yLY15myLuPMLyR0BQCKkSCwy86WP8pPbdSi7q9FZF9Q\u002BkAkuwOFzXGrIZR4Qy/P0zBxsto1Ai72l9cNdWsk69BlR35UhB4OGbTvkFMyyA\u002BIUYlOAIRs4vmcJlGgihND\u002BFtHeNvQOzQLsDUKazMa3rC0VS5OK4\u002BFVDpbbcoZgp3Wwh8TYJ7JXQIdEAVWnJOUa3Hwx2RfJuV9A0S40Q/v2u4ApWXnoMtCkPFG30rVD0bhGcbVO5VN1Sup1GpqaIhOWjooVgAbBmtR14MEJSFdMivlwnFBQGqO4klA5GabKeI047qcszRkjTwEDqZ6/o4KdgstemWs1nD/ppI3hH0KgZXBaEbG9DLX/wghgBfLaMIVoa4iCeBi6H47Qx9kM4wagdcrOA\u002BZTDgJpsehZ\u002BPlftUWjVJq8RtXTCzRwco6iE\u002Bcp6B/H8UrBMAMYkHQgfjieofzI8lBaTSARyxxUKSxPUFROKOwbBFNIWIZTzmnHDw6iLJGrgGKHoxgKbogP0kA1yI2R5ELADqfZZcLQIga5coQgvmX5kEiTAiiCwUMLsA4EFxuCUeai7NCu3Kb8DMoHQwkooHXBPtQaAL4C7UiINgyZTQCAv3woPDuWO26x7xlKMRgFDF24HXH0xGWmgRfcQHwDAY1SMn1zcPLiCkq2uGCIayBt\u002B6HI/t9j899fQO963JylZ4/mLqOpdwA9o5lYnT8/6GBznWzm6Oe3jNJ9PggNPSWiF38BwFlzOnaUjdwAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-06T17:55:37.64Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
