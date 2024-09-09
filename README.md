@@ -29,7 +29,7 @@ This project is a complete system for managing student registrations, conducting
      - **Package 2**: Inserts data for students who have found jobs or completed freelancing work.
      - **Package 3**: Handles periodic updates.
      - **Package 4**: Performs data cleansing.
-   - ![Control Flow](images/ssis-packages.png)
+   - ![Control Flow](https://github.com/Moaz-Mahmoud-S/ITI-Examination-System-GP/blob/main/Control%20Flow.png)
    - ![SSIS Packages](https://github.com/Moaz-Mahmoud-S/ITI-Examination-System-GP/blob/main/SSISP1.PNG)
    - ![SSIS Packages](https://github.com/Moaz-Mahmoud-S/ITI-Examination-System-GP/blob/main/SSISP2.PNG)
   
@@ -57,6 +57,7 @@ This project is a complete system for managing student registrations, conducting
    - ![Power BI Dashboards](https://github.com/Moaz-Mahmoud-S/ITI-Examination-System-GP/blob/main/Dash3.png)
    - ![Power BI Dashboards](https://github.com/Moaz-Mahmoud-S/ITI-Examination-System-GP/blob/main/Dash4.png)
    - ![Power BI Dashboards](https://github.com/Moaz-Mahmoud-S/ITI-Examination-System-GP/blob/main/ITI%20Freelancing%20Details%20Dashboard.PNG)
+   - ![Power BI Dashboards](https://github.com/Moaz-Mahmoud-S/ITI-Examination-System-GP/blob/main/ITI%20Student%20Communication%20Dashboard.PNG)
    
 
 ## Tools and Technologies Used
